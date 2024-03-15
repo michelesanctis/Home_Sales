@@ -21,7 +21,3 @@
 12. Uncache the `home_sales` temporary table.
 13. Verify that the `home_sales` temporary table is uncached using PySpark.
 14. Download your `Home_Sales.ipynb` file and upload it into your "Home_Sales" GitHub repository.
-
-### Support and Resources
-Your instructional team will provide support during classes and office hours. You will also have access to learning assistants and tutors to help you with topics as needed. 
-Make sure to take advantage of these resources as you collaborate with your partner on this project.
